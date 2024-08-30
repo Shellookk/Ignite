@@ -1,0 +1,14 @@
+{
+  "name": "desafio",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "Isaque Rodrigues",
+  "license": "ISC",
+  "description": ""
+}
