@@ -10,5 +10,9 @@
   "keywords": [],
   "author": "Isaque Rodrigues",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "csv": "^6.3.10",
+    "csv-parse": "^5.5.6"
+  }
 }
