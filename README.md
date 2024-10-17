@@ -20,3 +20,10 @@ Sem observações
     },    
     });
     ```
+2. Migrations:
+Migrations são controles de versão do banco de dados. Elas são uma linha do tempo do banco de  dados.
+- comando de ajuda para o knex:
+npx knex -h
+
+Cria a migrate:
+npx knex migrate:make 
